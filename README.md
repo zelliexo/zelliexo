@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zelliexo
 - 👀 I’m interested in computer science, gaming and animals
-- 🌱 I’m currently learning hmtl, css, JavScript, and Python
+- 🌱 I’m currently learning hmtl, css, JavaScript, and Python
 - 😄 Pronouns: she/her
 
 
